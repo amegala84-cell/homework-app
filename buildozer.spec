@@ -7,8 +7,7 @@ source.include_exts = py,png,jpg,jpeg,json,kv,txt
 source.include_patterns = photos/*
 
 version = 1.0.0
-requirements = python3,kivy==2.3.0,kivymd==1.2.0,plyer,opencv,numpy,pillow
-
+requirements = python3,kivy==2.3.0,kivymd==1.2.0,plyer
 orientation = portrait
 fullscreen = 0
 
