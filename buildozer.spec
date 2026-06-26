@@ -7,7 +7,7 @@ source.include_exts = py,kv,png,jpg,jpeg,json,ttf,atlas,mp3,wav,ogg
 source.include_patterns = photos/*
 
 version = 1.0.0
-requirements = python3==3.11,kivy==2.3.0,kivymd==1.2.0,plyer
+requirements = python3,kivy==2.3.0,kivymd==1.2.0,plyer
 
 orientation = portrait
 fullscreen = 0
