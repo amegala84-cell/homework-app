@@ -1,0 +1,120 @@
+{
+    "teachers": {
+        "teacher": {
+            "password": "admin"
+        },
+        "fs": {
+            "name": "dsfd",
+            "grade": "213",
+            "section": "213",
+            "classroom": "2314325",
+            "contact": "2432354653",
+            "mail": "hjbjsabjhsdjn",
+            "password": "admin",
+            "blocked": false,
+            "admin": "dg"
+        }
+    },
+    "students": {
+        "sak": {
+            "reg": "1312",
+            "contact": "32344655656",
+            "dob": "31-10-15",
+            "teacher": "fs",
+            "password": "admin",
+            "homework": {
+                "ghhhhhhgghgjgkjnjkxnvjknjknjfhjkvxvnkbvj": {
+                    "hw_date": "13-02-26",
+                    "submit_date": "13-02-26",
+                    "done": true,
+                    "photo": "C:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\hw_1781418022.jpg"
+                },
+                "gjkjkbxzjmzxcnjkdsnj nJNADV": {
+                    "hw_date": "12-01-25",
+                    "submit_date": "12-01-25",
+                    "done": true,
+                    "photo": "C:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\hw_1781418830.jpg"
+                },
+                "AZSXDFGHJKDSE\tQwaesrtfgyuhi": {
+                    "hw_date": "14-06-26",
+                    "submit_date": "15-06-26",
+                    "done": true,
+                    "photo": "C:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\hw_1781420759.jpg"
+                },
+                "qwaesdrcfgvhbjnkml\nsctvgbhnjkm": {
+                    "hw_date": "14-06-26",
+                    "submit_date": "14-06-26",
+                    "done": false,
+                    "photo": "C:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\hw_1781420933.jpg"
+                }
+            },
+            "blocked": false
+        },
+        "saks": {
+            "reg": "1324",
+            "contact": "24354657",
+            "dob": "31-10-15",
+            "teacher": "fs",
+            "password": "admin",
+            "homework": {
+                "ghhhhhhgghgjgkjnjkxnvjknjknjfhjkvxvnkbvj": {
+                    "hw_date": "13-02-26",
+                    "submit_date": "13-02-26",
+                    "done": false,
+                    "photo": "C:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\hw_1781418022.jpg"
+                },
+                "gjkjkbxzjmzxcnjkdsnj nJNADV": {
+                    "hw_date": "12-01-25",
+                    "submit_date": "12-01-25",
+                    "done": false,
+                    "photo": "C:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\hw_1781418830.jpg"
+                },
+                "AZSXDFGHJKDSE\tQwaesrtfgyuhi": {
+                    "hw_date": "14-06-26",
+                    "submit_date": "15-06-26",
+                    "done": false,
+                    "photo": "C:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\hw_1781420759.jpg"
+                },
+                "qwaesdrcfgvhbjnkml\nsctvgbhnjkm": {
+                    "hw_date": "14-06-26",
+                    "submit_date": "14-06-26",
+                    "done": false,
+                    "photo": "C:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\hw_1781420933.jpg"
+                }
+            },
+            "blocked": false
+        },
+        "demo_student": {
+            "reg": "1001",
+            "contact": "1234567890",
+            "dob": "01-01-10",
+            "teacher": "teacher",
+            "password": "admin",
+            "homework": {
+                "Demo Photo HW": {
+                    "hw_date": "14-06-26",
+                    "submit_date": "20-06-26",
+                    "done": false,
+                    "photo": "c:\\Users\\ELCOT\\OneDrive\\Desktop\\Python Projects\\photos\\demo_sample.png"
+                }
+            },
+            "blocked": false
+        }
+    },
+    "owner": {
+        "username": "owner",
+        "password": "123"
+    },
+    "admins": {
+        "dg": {
+            "name": "hfssb",
+            "school": "faejknjfn",
+            "contact1": "414156626287",
+            "contact2": "61518762178962",
+            "address": "vjdbzjkcn,jsncjnxz",
+            "mail": "gmail.com",
+            "password": "123",
+            "blocked": false
+        }
+    }
+}
